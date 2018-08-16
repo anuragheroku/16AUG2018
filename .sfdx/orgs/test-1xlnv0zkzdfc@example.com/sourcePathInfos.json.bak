@@ -1,0 +1,252 @@
+[
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534334472125,
+            "changeTime": 1534334472125,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534334472125,
+            "changeTime": 1534334472125,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1534446661297,
+            "changeTime": 1534446661297,
+            "isWorkspace": false,
+            "contentHash": "ae0ee8873487b03bc0287b32131dd88c0eeb58d1"
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534446281423,
+            "changeTime": 1534446281423,
+            "contentHash": "2fdc18228ec15bf02fc1cbf5019a074844fc63c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1534446281427,
+            "changeTime": 1534446281427,
+            "contentHash": "fd2723635ead4823484707a91d5e79ef03e5421f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.auradoc",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1534446281427,
+            "changeTime": 1534446281427,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.cmp",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1534446281423,
+            "changeTime": 1534446281423,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1534446281424,
+            "changeTime": 1534446281424,
+            "contentHash": "188c2e2cba049916c2fe8df2980df3ec3a2a017d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.css",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1534446281426,
+            "changeTime": 1534446281426,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.design",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1534446281427,
+            "changeTime": 1534446281427,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.svg",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1534446281426,
+            "changeTime": 1534446281426,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponentController.js",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponentController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1534446281425,
+            "changeTime": 1534446281425,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponentHelper.js",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1534446281425,
+            "changeTime": 1534446281425,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponentRenderer.js",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/aura/OneComponent/OneComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1534446281426,
+            "changeTime": 1534446281426,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018",
+        {
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1534446037393,
+            "changeTime": 1534446037393,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/Apex1.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/Apex1.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 166,
+            "modifiedTime": 1534447487285,
+            "changeTime": 1534447487285,
+            "contentHash": "3a7713b8e5e4333f52cfdeb26b788595e5f4de72"
+        }
+    ],
+    [
+        "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/Apex1.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/anuragchawla/WSDX/15AUG2018/force-app/main/default/Apex1.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 183,
+            "modifiedTime": 1534446661297,
+            "changeTime": 1534446661297,
+            "contentHash": "54fe2d285fdd1ef17b414a409ce302bba18dce4e"
+        }
+    ]
+]
